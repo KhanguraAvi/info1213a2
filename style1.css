@@ -1,0 +1,40 @@
+html body{
+background:#ffcccc;
+
+}
+
+h1{
+	font-style: italic;
+	color:#00ffaa ;
+	text-shadow: 0px 4px 3px red,
+	             0px 18px 20px orange;
+}
+button:hover {
+	background: #9966ff;
+	font-size: 1.2rem;
+	font-style: italic;
+	line-height:1.5;
+	border-radius: 30px;
+	text-shadow: 2px 2px 2px black;
+}
+.jumbotron{
+	/*vertical-align: middle;*/
+	text-align: center;
+	margin-top: 270px;
+	align-items: center;
+
+	/*background-image:url(https://cdn.pixabay.com/photo/2019/11/23/07/20/nature-4646406_960_720.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+p{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 2rem;
+	color:#cc6699;
+	font-weight: bold;
+}
+
+.material-icons{
+	color:gray;
+	}

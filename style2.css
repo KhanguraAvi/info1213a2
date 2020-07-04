@@ -1,0 +1,79 @@
+body{
+	background: pink;
+	font-family: "Times New Roman", Times, serif;
+}
+
+
+#Main a:hover{
+
+     color:red;
+
+
+}
+
+form{
+	margin-left: 30px;
+}
+.navbar{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+
+}
+
+.jumbotron{
+	margin-top: 3.8rem;
+	background:#c2d6d6;
+	height: 250px;
+
+}
+ img{
+ 
+     margin-top: -25px;
+    
+ }
+ h1{
+ 	margin-left: 15rem;
+ 	margin-top: -13.5rem;
+ 	font-style: italic;
+	color:#00ffaa ;
+	text-shadow: 0px 4px 3px red;
+	}
+p{
+      margin-left: 17rem;
+      font-size: 20px;
+      line-height: 1rem;
+}
+table{
+	margin-left: 12rem;
+}
+#paragraph{
+
+	margin-left: 9px;
+	color: #ff1a8c;
+	font-style:oblique;
+	font-weight: bold; 
+
+	margin-top: 1px;
+}
+
+span{
+	padding: 10px 20px 10px 20px;
+}
+
+hr{
+	border-width: 2.5px;
+	margin-top: 6px;
+}
+
+#Education .card{
+	border-top: 3px solid red;
+
+}
+#FavouriteWebsites .card{
+	margin-top: 25px;
+	color:#e60073;
+	border-bottom: 4px solid #990099;
+}
+
